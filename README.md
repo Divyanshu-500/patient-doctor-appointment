@@ -98,7 +98,7 @@ A full-stack web application for scheduling appointments between doctors and pat
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-app.git
+   https://github.com/Divyanshu-500/patient-doctor-appointment.git
 2. Set up the backend API using Express and Mongoose (provide instructions if necessary).
 3. Navigate to the project directory.
 4. Run npm install to install the required dependencies.
